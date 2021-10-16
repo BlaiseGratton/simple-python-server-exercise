@@ -1,2 +1,1 @@
-from .request import get_all_animals
-from .quotes import get_all_quotes, get_random_quote
+from .request import get_all_animals, get_single_animal
